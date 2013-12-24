@@ -1,7 +1,7 @@
-mecanumbot-power
-================
+Mecanumbot Power Board
+======================
 
-An Arduino sketch for the mecanumbot power control board.
+The power board for the Mecanumbot robot.
 
 ## Features
 
