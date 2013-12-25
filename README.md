@@ -18,6 +18,8 @@ See more at http://javconcepts.com/2013/01/06/mecanumbot-power-board/.
 
 * add battery charging
 * add fusing
+* keep the board / robot powered during microcontroller restart by using flip-flops (useful for loading new code from the robot itself)
+ * this could enable comm directly with ROS via USB instead of through I2C through the other Arduino!
 
 ## Screenshot
 
